@@ -45,4 +45,3 @@ The [WSGIDaemonProcess](http://modwsgi.readthedocs.io/en/develop/configuration-d
 
 ### Access the Web Application
 Open [this url](http://18.184.106.217.xip.io) in your favorite browser.
-
